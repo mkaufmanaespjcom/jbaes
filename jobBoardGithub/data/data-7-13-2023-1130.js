@@ -89,7 +89,7 @@ let jobsdata = [  /* You can add more positions and information based on the for
       "location": "Pittsburgh, PA",
       "locationSlug": "pittsburgh-pa",
       "department": "Development",
-      "style": ["position-projectEngineer"]
+      "style": ["bulletPNT"]
     },
     {
       "id": 3,
