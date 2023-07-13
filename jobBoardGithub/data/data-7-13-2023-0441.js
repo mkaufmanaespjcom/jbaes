@@ -106,7 +106,7 @@ let jobsdata = [  /* You can add more positions and information based on the for
         All employment is decided on the basis of qualifications, merit, and business need.</i></p>`,
       "location": "Pittsburgh, PA",
       "locationSlug": "pittsburgh-pa",
-      "department": "Drafting",
+      "department": "Engineering",
       "style": ["bulletPNT"]
     },
     {
@@ -164,7 +164,7 @@ let jobsdata = [  /* You can add more positions and information based on the for
         All employment is decided on the basis of qualifications, merit, and business need.</i></p>`,
       "location": "Pittsburgh, PA",
       "locationSlug": "pittsburgh-pa",
-      "department": "Engineering",
+      "department": "Drafting",
       "style": ["bulletPNT"]
     },
     {
@@ -407,7 +407,7 @@ let jobsdata = [  /* You can add more positions and information based on the for
           All employment is decided on the basis of qualifications, merit, and business need.</i></p>`,
         "location": "Pittsburgh, PA",
         "locationSlug": "pittsburgh-pa",
-        "department": "Drafting",
+        "department": "Engineering",
         "style": ["bulletPNT"]
       },
       {
@@ -557,7 +557,7 @@ let jobsdata = [  /* You can add more positions and information based on the for
         All employment is decided on the basis of qualifications, merit, and business need.</i></p>`,
       "location": "Jacksonville, FL",
       "locationSlug": "jacksonville-fl",
-      "department": "Drafting",
+      "department": "Engineering",
       "style": ["bulletPNT"]
     },
     {
@@ -615,7 +615,7 @@ let jobsdata = [  /* You can add more positions and information based on the for
         All employment is decided on the basis of qualifications, merit, and business need.</i></p>`,
       "location": "Jacksonville, FL",
       "locationSlug": "jacksonville-fl",
-      "department": "Engineering",
+      "department": "Drafting",
       "style": ["bulletPNT"]
     },
     {
@@ -858,7 +858,7 @@ let jobsdata = [  /* You can add more positions and information based on the for
           All employment is decided on the basis of qualifications, merit, and business need.</i></p>`,
         "location": "Jacksonville, FL",
       "locationSlug": "jacksonville-fl",
-        "department": "Drafting",
+        "department": "Engineering",
         "style": ["bulletPNT"]
       },
       {
