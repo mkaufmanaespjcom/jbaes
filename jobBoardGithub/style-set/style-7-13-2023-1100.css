@@ -30,13 +30,17 @@
 
 
 /*custom fonts and styles for descripton data*/
-.position-frontend p{
+.position-frontend p {
 color:rgb(16, 18, 163);
 }
 
 .position-frontend p:nth-of-type(3) {  /*the number dictates which element of that type will be affected by order of elements of that type, 
     so this is affecting the nth p element*/
 background-color: yellow;
+}
+
+.position-projectEngineer li {
+        list-style: square;
 }
 
 /*For integrating into your sqaurespace webpage (COPY AND PASTE THE STYLES FROM INSPECT ELEMENT) 
