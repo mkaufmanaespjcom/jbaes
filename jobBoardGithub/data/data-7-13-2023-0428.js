@@ -228,7 +228,7 @@ let jobsdata = [  /* You can add more positions and information based on the for
     age, non-disqualifying physical or mental disability, national origin, veteran status, or any other basis covered by appropriate law. 
     All employment is decided on the basis of qualifications, merit, and business need.</i></p>`,
       "location": "Pittsburgh, PA",
-      "locationSlug": "pittsburgh-pa",,
+      "locationSlug": "pittsburgh-pa",
       "department": "Engineering",
       "style": ["bulletPNT"]
     }
