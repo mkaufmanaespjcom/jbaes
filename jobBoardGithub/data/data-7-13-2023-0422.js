@@ -298,8 +298,7 @@ let jobsdata = [  /* You can add more positions and information based on the for
 
     <p><i>AES is an Equal Opportunity Employer. AES does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, 
         age, nondisqualifying physical or mental disability, national origin, veteran status, or any other basis covered by appropriate law. 
-        All employment is decided on the basis of qualifications, merit, and business need.</i></p>
-</body>`,
+        All employment is decided on the basis of qualifications, merit, and business need.</i></p>`,
       "location": "Pittsburgh, PA",
       "locationSlug": "pittsburgh-pa",
       "department": "Marketing",
