@@ -43,8 +43,49 @@ let jobsdata = [  /* You can add more positions and information based on the for
     },
     {
       "id": 2,
-      "title": "Backend Developer",
-      "description": "We are hiring a backend developer to work on our server infrastructure. <ul><li> test 1. </li><li> test 2. </li><li> test 3. </li></ul>",
+      "title": "Project Engineer",
+      "description": ' <p>Atlantic Engineering Services (AES) is seeking a full-time Project Engineer to support our growing team. With offices in Pittsburgh, PA; Morgantown, WV; and Jacksonville, FL; AES is an award-winning, full-service structural engineering firm with 35 years of experience. Our exceptional team is passionate about serving our clients and supporting the A/E/C community. Providing consulting services to a wide array of industries, professionals at the firm craft structures in which people live, learn, play, heal, worship, and more. As a Project Engineer, you will work directly with our clientele to design solutions for structures and to nurture existing client relationships.</p>
+        
+    <p>Duties and Responsibilities </p>
+    <ul>
+        <li>Design and detail solutions for new and existing structures that meet your clients’ goals and that are code compliant, efficient, and thoroughly detailed</li>
+        <li>Act as a Project Engineer on several projects simultaneously that can differ significantly in size, schedule, and complexity</li>
+        <li>Develop strong client relationships and engage in smart, client-focused business development practices to maintain long-term business relationships</li>
+        <li>Act as a team leader, communicating project requirements and expectations, working closely with others to achieve your projects’ goals and schedules</li>
+        <li>Responsibly balance available manpower and resources as required to meet your projects’ goals and schedule</li>
+    </ul>
+
+    <p>Requirements and Recommendations</p>
+    <ul>
+        <li>PE or SE license</li>
+        <li>5+ years exhibiting growth in project management and technical expertise for structural engineering </li>
+        <li>Competency in organizing and managing project teams to reach successful project conclusions</li>
+        <li>Ability to develop and maintain client relationships and to communicate effectively with teams and clients</li>
+        <li>Knowledge and experience with analytical software across multiple structural systems</li>
+        <li>Recommended - BIM (Revit) Experience</li>
+        <li>Recommended - Masters degree in engineering or equivalent program</li>
+    </ul>
+
+    <p>Benefits</p>
+    <ul>
+        <li>Competitive compensation package that includes holiday and paid time off</li>
+        <li>Employer assistance in purchasing company health and vision insurances</li>
+        <li>Employer-paid long-term disability insurance</li>
+        <li>Employer-paid life insurance</li>
+        <li>Voluntary Aflac dental and supplemental insurance policies</li>
+        <li>Participation in a self-directed 401K plan with matching</li>
+    </ul>
+
+    <p>Perks</p>
+    <ul>
+        <li>Hands-on training and support</li>
+        <li>Advancement opportunities</li>
+        <li>Financial advisement services for investments and retirement options</li>
+        <li>Company trips and events</li>
+        <li>Community outreach opportunities</li>
+        <li>Flexible work environment - work from home options available</li>
+        <li>AES is an Equal Opportunity Employer. AES does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, nondisqualifying physical or mental disability, national origin, veteran status, or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need.</li>
+    </ul>',
       "location": "Pittsburgh, PA",
       "locationSlug": "pittsburgh-pa",
       "department": "Development",
